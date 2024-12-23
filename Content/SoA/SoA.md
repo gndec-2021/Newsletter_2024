@@ -51,8 +51,8 @@ GNDEC School of Architecture, Ludhiana organized a One Day Hands-on Workshop on 
 </p>   
  
 ### Seminar on Fundamentals of Refrigeration and Air Conditioning in collaboration with Mechanical engineering Department and supported by ISHRAE.  
-![image](Images/10mechanicalWorkshop.jpg)
-![image](Images/9mechanicalWorkshop.jpg)
+![image](Images/10mechanicalWorkShop.jpg)
+![image](Images/9mechanicalWorkShop.jpg)
   
 <p align=justify>  
 GNDEC School of Architecture in collaboration with Mechanical Engineering Department organized a seminar on ‘Fundamentals of Refrigeration & Air Conditioning’ for the students which was supported by ISHRAE Ludhiana Sub-Chapter. We are grateful to Er Akshay Kumar, Associate Manager – Mitsubishi Electric India Private Limited that he visited GNDEC campus as a resource person. His presentation was not only informative but also very interesting and engaging. Dr Sehijpal Singh, Principal – GNDEC lauded the collaboration between two departments and highlighted the significance of inter-disciplinary approach in Technical Education. 
