@@ -27,39 +27,39 @@ Head, GNDEC School of Architecture
 ## Educational Site Visit’s    
   
 ### 3 day Educational Tour for the B.Architecture 3rd year students to Himachal Pradesh  
-![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/18.himachal%20tour.jpg)
-![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/19.himachal%20tour.jpg)
-![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/20.himachal%20tour.jpg)
+![image](Images/18himachalTour.jpg)
+![image](Images/19himachalTour.jpg)
+![image](Images/20himachalTour.jpg)
 <p align=justify>  
 GNDEC School of Architecture organized a 3 day Educational Tour for the B.Architecture 3rd year students to Himachal Pradesh. On the 1st Day, students visited proposed site for Resort (Studio Project in Architectural Design) with project Architect Rattanlal Sharma in Hamirpur. Students also visited his office in Ghumarwin and two of his built projects on contours. Ar Sharma enlightened the students with his practice and knowledge about Architectural projects on contour sites. On 2nd day, Heritage walk of the Pragpur/Garli (India’s 1st Heritage village) was conducted to study the Architectural vocabulary and locally available materials. Students also visited Kaleshwar Temple at the banks of Beas river and conducted the case study of Lalit Palace Hotel on the same day. Students visited NIT, Hamirpur campus on the 3rd and last day of the tour where they met students and faculty of Architecture department. Various resources like project models on contour sites and thesis reports were studied by the students. Prof. (Dr.) Puneet Sharma gave wonderful presentation on Planning principles and construction strategies to be followed at contour sites. 
    
  ### Educational Visit to Kapurthala.
-![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/4.%20RAILWAYS.jpg)
-![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/5.%20RAIL%20COACH%20FACTORY.jpg)
-![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/6.%20RAIL%20COACH%20FACTORY.jpg)
+![image](Images/4railways.jpg)
+![image](Images/5railCoachFactory.jpg)
+![image](Images/6railCoachFactory.jpg)
 
  <p align=justify>    
 GNDEC School of Architecture organized an educational visit to Kapurthala where students visited Rail Coach Factory, Science City and A2A Design Studio.Students learnt about Industrial buildings as they visited RCF where they observed Large Span Steel structures with light weight roofing materials. They also saw installation of different components like Partitions, Air conditioning, Flooring, Lighting, Electrical wires and cable fittings, etc.  
 </p>    
   
 ### One day workshop on concrete organised by GNDEC SoA in collaboration with Ultratech Cement.
-![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/7.%20workshop%20ultra%20tech.jpg)
-![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/8.%20workshop%20ultra%20tech.jpg)
+![image](Images/7workshopUltraTech.jpg)
+![image](Images/8workshopUltraTech.jpg)
   
 <p align=justify>    
 GNDEC School of Architecture, Ludhiana organized a One Day Hands-on Workshop on Concrete in collaboration with Ultratech Cement at their plant in Focal Point, Ludhiana. Students worked on different proportions of materials to prepare various grades of concrete. Concrete tests like slump tests, cone tests, setting time tests, etc were also conducted by the students. Mr. Gurpinderjit Singh-Plant Head,  Er.Charanjit Singh - Punjab Sales Head, Mr.Rajeev Ranjan-Quality charge, and Mr.Anuj Tayagi - Technical Executive at Ultratech Cement Plant enlightened the students with their practical knowledge about concrete and its constituents.  
 </p>   
  
 ### Seminar on Fundamentals of Refrigeration and Air Conditioning in collaboration with Mechanical engineering Department and supported by ISHRAE.  
-![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/10.%20mechanical%20work%20shop.jpg)
-![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/9.%20mechanical%20work%20shop.jpg)
+![image](Images/10mechanicalWorkShop.jpg)
+![image](Images/9mechanicalWorkShop.jpg)
   
 <p align=justify>  
 GNDEC School of Architecture in collaboration with Mechanical Engineering Department organized a seminar on ‘Fundamentals of Refrigeration & Air Conditioning’ for the students which was supported by ISHRAE Ludhiana Sub-Chapter. We are grateful to Er Akshay Kumar, Associate Manager – Mitsubishi Electric India Private Limited that he visited GNDEC campus as a resource person. His presentation was not only informative but also very interesting and engaging. Dr Sehijpal Singh, Principal – GNDEC lauded the collaboration between two departments and highlighted the significance of inter-disciplinary approach in Technical Education. 
 </p>   
   
 ### Case study Visit for B. Architecture 4th year Students to the SPS hospital, Ludhiana.  
-![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/11.%20case%20study%20to%20SPS%20Hospital.jpg)
+![image](Images/11caseStudyTo_SPS_Hospital.jpg)
   
 <p align=justify>    
 GNDEC School of Architecture organized a Case study Visit for B. Architecture 4th year Students to the SPS hospital, Ludhiana. The main Objective for the case study was to make students understand the important functions like OPD, Emergency, IPD, Diagnostics, ICU/CCU's, OT's, CSSD, etc and their inter-connectivity. We are thankful to Er Charanpreet Singh Ji (Himself GNDEC Alumnus), Bhupinder Ji and complete hospital administration for allowing us to successfully conduct the case study. We congratulate Prof Ravinder Singh & Prof Vivek Sehgal for mentoring the students and creating such excellent opportunities for them to learn.
@@ -67,17 +67,17 @@ GNDEC School of Architecture organized a Case study Visit for B. Architecture 4t
 </p>   
   
 ### 'Hands-on Clay Workshop' organised by GNDEC SoA FOR 1st year Students of B.arch  
-![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/12.%20clay%20workshop.jpg)  
- ![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/13.%20clay%20workshop.jpg) 
- ![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/14.%20clay%20workshop.jpg) 
- ![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/15.%20clay%20workshop.jpg) 
+![image](Images/12clayWorkshop.jpg)  
+![image](Images/13clayWorkshop.jpg) 
+![image](Images/14clayWorkshop.jpg) 
+![image](Images/15clayWorkshop.jpg) 
 <p align=justify>      
 GNDEC School of Architecture organized 'Hands-on Clay Workshop' for students of B. Arch 1st year. Workshop was a huge success as students thoroughly enjoyed the event, learnt various skills pertaining to clay modelling and crafted various beautiful models. We are thankful to the resource persons Mr. Tanveer, Ms. Manmeet and Ms. Jasmeet (All 3rd Year Students from BCA department, GNDEC) as they spared the time for students of B.Architecture.
 </p>    
   
 ###  WORLD ARCHITECTURE WEEK- Students create an Amazing Sitting Space in College Campus 
-![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/16.%20sitting%20space%20created.jpg)
-![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/17.%20sitting%20space.jpg)
+![image](Images/16sittingSpaceCreated.jpg)
+![image](Images/17sittingSpace.jpg)
 <p align=justify>       
 GNDEC School of Architecture is celebrating WORLD ARCHITECTURE WEEK by organizing experiential activities for B.Architecture students.Day 5 (06th October) : Students of all the batches put their hands together and created a marvel sitting space in the college campus with waste material like tyres, empty bottles, sacks etc. and has completed the task within a very low budget.  
 </p>      
@@ -116,13 +116,13 @@ The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 
 ![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/dfe9aad4-137c-4f19-bb77-9f2b9e1db115)
   
 ###  B.Architecture students  Awaljot Kaur, Shivangi Singh and Urja Kaushal have been awarded for their writing skills at'First Friday Forum' which was held in Chandigarh College of Architecture (CCA) on 22nd October, 2023
-![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/21.writing%20skills%20%20cca.jpg)
+![image](Images/21writingSkillsCca.jpg)
         
 ### Jaismeen Kaur; B.Architecture 5th year student  has played a key role in GNDEC winning overall Trophy in I.K.G. PTU Inter College Cycling competition on 28th September, 2023
-![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/23.ptu%20cycling%20competition.jpg)  
+![image](Images/20himachalTour.jpg)  
   
 ### Gursehaj Kaur;  B.Architecture 3rd year student has played a key role in GNDEC bagging 1st runner up trophy in I.K.G. PTU Inter College Chess tournament.   
-![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/22.ptu%20chess%20competition.jpg)
+![image](Images/22ptuChessCompetition.jpg)
 
 ## Publications    
 
