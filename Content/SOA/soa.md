@@ -9,7 +9,7 @@
 Education is not just a profession for us, but a privilege to work closely with the youth, shaping them into competent and responsible citizens who can shape their own future and that of our country. Our team of skilled and resourceful faculty members is dedicated to taking up challenges and delivering creative and qualitative knowledge in various domains. Our goal is to make GNDEC School of Architecture a globally recognized Design Research institute, putting Ludhiana, Punjab on the world map. We are constantly working towards strengthening our school of architecture year by year, and we are proud to lead this endeavor.
 I would like to express my heartfelt gratitude to all our students, faculty, and staff for being a part of our journey towards excellence in architectural education. Together, we can continue to make GNDEC-School Of Architecture a center of academic excellence and innovation.
 Also, we express our sincere gratitude to the Newsletter team for their commendable efforts in compiling and publishing the important outcomes of our department. Your dedication and hard work are truly appreciated. Thank you for keeping our students, faculty and staff informed and engaged through the GNDEC-SOA Newsletter.  
-  </p>
+</p>
   
 Ar. Akanksha Sharma  
 Head, GNDEC School of Architecture  
@@ -32,6 +32,7 @@ Head, GNDEC School of Architecture
 ![image](Images/20.jpg)
 <p align=justify>  
 GNDEC School of Architecture organized a 3 day Educational Tour for the B.Architecture 3rd year students to Himachal Pradesh. On the 1st Day, students visited proposed site for Resort (Studio Project in Architectural Design) with project Architect Rattanlal Sharma in Hamirpur. Students also visited his office in Ghumarwin and two of his built projects on contours. Ar Sharma enlightened the students with his practice and knowledge about Architectural projects on contour sites. On 2nd day, Heritage walk of the Pragpur/Garli (India’s 1st Heritage village) was conducted to study the Architectural vocabulary and locally available materials. Students also visited Kaleshwar Temple at the banks of Beas river and conducted the case study of Lalit Palace Hotel on the same day. Students visited NIT, Hamirpur campus on the 3rd and last day of the tour where they met students and faculty of Architecture department. Various resources like project models on contour sites and thesis reports were studied by the students. Prof. (Dr.) Puneet Sharma gave wonderful presentation on Planning principles and construction strategies to be followed at contour sites. 
+</p>
    
 ### Educational Visit to Kapurthala.
 ![image](Images/4.jpg)
