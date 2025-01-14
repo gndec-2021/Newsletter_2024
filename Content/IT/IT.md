@@ -121,52 +121,6 @@ The ITIAN Club is a technology based club created in 2021. The club is open to a
 
 ## Placements
 
-**Batch : 2020-2024**
-| Sr. No. | Candidate Name       | Company Name                               | Package (LPA) |
-|:--------|:---------------------|:-------------------------------------------|:--------------|
-| 1       | Chandan Kumar        | Argusoft                                   | 7.12          |
-| 2       | Himanshu Mahajan     | Stylumia Intelligence Technology Pvt. Ltd. | 7             |
-| 3       | Lovish Malhotra      | JMAN Group                                 | 5             |
-| 4       | Ananya Mahajan       | KPMG                                       | 5             |
-| 6       | Harleen Kaur         | SafeAeon Inc.                              | 4.12          |
-| 7       | Gaganpreet Singh     | SafeAeon Inc.                              | 4.12          |
-| 8       | Ravleen Kaur         | Airnet Travels and Cargo Pvt. Ltd.         | 3.6           |
-| 9       | Shubham Choudhary    | Airnet Travels and Cargo Pvt. Ltd.         | 3.6           |
-| 10      | Divyansh Bhateja     | WITS INNOVATION LAB                        | 3.5           |
-| 11      | Prabhkirat Singh     | WITS INNOVATION LAB                        | 3.5           |
-| 12      | Prabhjot Singh       | MWIDM                                      | 3.5           |
-| 13      | Preet Singh Sahota   | MWIDM                                      | 3.5           |
-| 14      | Amandeep Singh       | MWIDM                                      | 3.5           |
-| 15      | Neeraj Kumar         | MWIDM                                      | 3.5           |
-| 16      | Kumar Abhinav        | Iotasol Technologies Pvt. Ltd.             | 2.7           |
-| 17      | Hemant Sahdev        | Airnet Travels and Cargo Pvt. Ltd.         | 2.7           |
-| 18      | Sejal Madaan         | PIRAMAL GROUP                              | 2.5           |
-| 19      | Harmanpreet Kaur     | Ralson (India) Limited                     | 2.4           |
-| 20      | Aman Kumar           | Deepak Fasteners                           | 2.16          |
-
-**Batch : 2019-2023**
-| Sr. No. | Candidate Name       | Company Name                              | Package (LPA) |
-|:--------|:---------------------|:------------------------------------------|:--------------|
-| 1       | Shivay Bhandari      | Zomato Limited                            | 20            |
-| 2       | Abhay Tiwari         | TCS Digital                               | 7.6           |
-| 3       | Balram Yadav         | XenonStack                                | 7.5           |
-| 4       | Shubham Chaudhary    | XenonStack                                | 7.5           |
-| 6       | Divya Juhi           | Argusoft India Ltd.                       | 7.12          |
-| 7       | Lokesh Dhingra       | Argusoft India Ltd.                       | 7.12          |
-| 8       | Tanuj Sharma         | Stylumia Intelligence Technology Pvt. Ltd.| 7             |
-| 9       | Prabhjot Kaur        | Hackwith Infy (INFOSYS) (DSE)             | 6.25          |
-| 10      | Sakshi Bhumbla       | Brillio                                   | 6             |
-| 11      | Ankush Bansal        | Incture Technologies                      | 6             |
-| 12      | Deepak Kumar         | Yatra                                     | 6             |
-| 13      | Ashutosh Sharma      | CHICMIC                                   | 5.75          |
-| 14      | Abhay Tiwari         | Bizmerlin HR                              | 5.28          |
-| 15      | Aastha               | Alert Enterprises                         | 5             |
-| 16      | Manpreet Kaur        | ShortHill Tech                            | 4.8           |
-| 17      | Jasnoor Kaur Jassal  | Venture Pact                              | 4.5           |
-| 18      | Aman Kumar Gandhi    | TCS Ninja                                 | 4             |
-| 19      | Muskan Sharma        | MWIDM                                     | 3.5           |
-| 20      | Raju Kumar Prasad    | Tech Mahindra                             | 2.65          |
-
 **Placement Summary**
 | Item                                                                     | 2020-2024 | 2019-2023 |
 |:------------------------------------------------------------------------ |:----------|:----------|
