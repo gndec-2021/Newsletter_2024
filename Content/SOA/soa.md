@@ -33,12 +33,12 @@ Head, GNDEC School of Architecture
 <p align=justify>  
 GNDEC School of Architecture organized a 3 day Educational Tour for the B.Architecture 3rd year students to Himachal Pradesh. On the 1st Day, students visited proposed site for Resort (Studio Project in Architectural Design) with project Architect Rattanlal Sharma in Hamirpur. Students also visited his office in Ghumarwin and two of his built projects on contours. Ar Sharma enlightened the students with his practice and knowledge about Architectural projects on contour sites. On 2nd day, Heritage walk of the Pragpur/Garli (India’s 1st Heritage village) was conducted to study the Architectural vocabulary and locally available materials. Students also visited Kaleshwar Temple at the banks of Beas river and conducted the case study of Lalit Palace Hotel on the same day. Students visited NIT, Hamirpur campus on the 3rd and last day of the tour where they met students and faculty of Architecture department. Various resources like project models on contour sites and thesis reports were studied by the students. Prof. (Dr.) Puneet Sharma gave wonderful presentation on Planning principles and construction strategies to be followed at contour sites. 
    
- ### Educational Visit to Kapurthala.
+### Educational Visit to Kapurthala.
 ![image](Images/4.jpg)
 ![image](Images/5.jpg)
 ![image](Images/6.jpg)
 
- <p align=justify>    
+<p align=justify>    
 GNDEC School of Architecture organized an educational visit to Kapurthala where students visited Rail Coach Factory, Science City and A2A Design Studio.Students learnt about Industrial buildings as they visited RCF where they observed Large Span Steel structures with light weight roofing materials. They also saw installation of different components like Partitions, Air conditioning, Flooring, Lighting, Electrical wires and cable fittings, etc.  
 </p>    
   
@@ -62,8 +62,7 @@ GNDEC School of Architecture in collaboration with Mechanical Engineering Depart
 ![image](Images/11.jpg)
   
 <p align=justify>    
-GNDEC School of Architecture organized a Case study Visit for B. Architecture 4th year Students to the SPS hospital, Ludhiana. The main Objective for the case study was to make students understand the important functions like OPD, Emergency, IPD, Diagnostics, ICU/CCU's, OT's, CSSD, etc and their inter-connectivity. We are thankful to Er Charanpreet Singh Ji (Himself GNDEC Alumnus), Bhupinder Ji and complete hospital administration for allowing us to successfully conduct the case study. We congratulate Prof Ravinder Singh & Prof Vivek Sehgal for mentoring the students and creating such excellent opportunities for them to learn.
-  
+GNDEC School of Architecture organized a Case study Visit for B. Architecture 4th year Students to the SPS hospital, Ludhiana. The main Objective for the case study was to make students understand the important functions like OPD, Emergency, IPD, Diagnostics, ICU/CCU's, OT's, CSSD, etc and their inter-connectivity. We are thankful to Er Charanpreet Singh Ji (Himself GNDEC Alumnus), Bhupinder Ji and complete hospital administration for allowing us to successfully conduct the case study. We congratulate Prof Ravinder Singh & Prof Vivek Sehgal for mentoring the students and creating such excellent opportunities for them to learn.  
 </p>   
   
 ### 'Hands-on Clay Workshop' organised by GNDEC SoA FOR 1st year Students of B.arch  
@@ -71,6 +70,7 @@ GNDEC School of Architecture organized a Case study Visit for B. Architecture 4t
 ![image](Images/13.jpg) 
 ![image](Images/14.jpg) 
 ![image](Images/15.jpg) 
+
 <p align=justify>      
 GNDEC School of Architecture organized 'Hands-on Clay Workshop' for students of B. Arch 1st year. Workshop was a huge success as students thoroughly enjoyed the event, learnt various skills pertaining to clay modelling and crafted various beautiful models. We are thankful to the resource persons Mr. Tanveer, Ms. Manmeet and Ms. Jasmeet (All 3rd Year Students from BCA department, GNDEC) as they spared the time for students of B.Architecture.
 </p>    
@@ -78,6 +78,7 @@ GNDEC School of Architecture organized 'Hands-on Clay Workshop' for students of 
 ###  WORLD ARCHITECTURE WEEK- Students create an Amazing Sitting Space in College Campus 
 ![image](Images/16.jpg)
 ![image](Images/17.jpg)
+
 <p align=justify>       
 GNDEC School of Architecture is celebrating WORLD ARCHITECTURE WEEK by organizing experiential activities for B.Architecture students.Day 5 (06th October) : Students of all the batches put their hands together and created a marvel sitting space in the college campus with waste material like tyres, empty bottles, sacks etc. and has completed the task within a very low budget.  
 </p>      
@@ -151,51 +152,36 @@ The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 
 
 ## Student Internships amongst India's Top 30 Architectural Consultancy Firms    
 
-| Sr. No. | Student Name                        | Architectural Firm                             |
-|:--------|:------------------------------------|:-----------------------------------------------|
-| 1.      | Komalpreet Kaur                     | AL HILALEngg. & Arch. Consultancy,Dubai | 
-| 2.      | Goresh Saini                        | RSP Design Consultants Pvt. Ltd., Bangalore | 
-| 3.      | Jaya Verma, Gurleen Kaur & Kirat Kaur | Design Forum International,New Delhi | 
-| 4.      | Kanav Soni                          | Modarch India, Noida | 
-| 5.      | Jaismeen Kaur & Vinay Kumar         | Fountain Head New Delhi | 
-| 6.      | Anudesh Saini                       | Arch 10 Design Consultants, Gurugram | 
-| 7.      | Bhavjeet Singh	                     | Arvind Vivek & Associates,New Delhi |                                                                                                  
-| 8.      | Khusham & Kriti Singla					         | Habitat Architects Ludhiana |  
-| 9.      | Ishika Arora             		         | Avinash Khosla & Associates,Ludhiana |  
-| 10.     | Ranjod Singh & Mifzal    		         | Prolific Architects,Ludhiana |  
-| 11.     | Deshna Aggarwal    		               | Designex Architects,Ludhiana |    
+| Sr. No. | Student Name                          | Architectural Firm                                         |
+|:--------|:--------------------------------------|:-----------------------------------------------------------|
+| 1.      | Komalpreet Kaur                       | AL HILAL Engg. & Arch. Consultancy, Dubai                  |
+| 2.      | Goresh Saini                          | RSP Design Consultants Pvt. Ltd., Bangalore                |
+| 3.      | Jaya Verma, Gurleen Kaur & Kirat Kaur | Design Forum International, New Delhi                      |
+| 4.      | Kanav Soni                            | Modarch India, Noida                                       |
+| 5.      | Jaismeen Kaur & Vinay Kumar           | Fountain Head, New Delhi                                   |
+| 6.      | Anudesh Saini                         | Arch 10 Design Consultants, Gurugram                       |
+| 7.      | Bhavjeet Singh                        | Arvind Vivek & Associates, New Delhi                       |
+| 8.      | Khusham & Kriti Singla                | Habitat Architects, Ludhiana                               |
+| 9.      | Ishika Arora                          | Avinash Khosla & Associates, Ludhiana                      |
+| 10.     | Ranjod Singh & Mifzal                 | Prolific Architects, Ludhiana                              |
+| 11.     | Deshna Aggarwal                       | Designex Architects, Ludhiana                              |
+  
   
 ## Seminar's, Guest Lectures, Workshops and Expert Talks 
 
-| Sr. No. | Name of Event Organized             | Delegate                             | Date |
-|:--------|:------------------------------------|:-----------------------------------------------|:----------------------|
-| 1.      | Study Visit for latest lighting fixtures and accessories                |SVICHLITE LIGHTING STORE, Ludhiana               | 14th August, 2024 |
-| 2.      | Hands-on session with Brick Masonry at Chitkara University, Rajpura.    | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture    | 26th July 2024 |
-| 3.      | World Environment Day  |  Ar. Dharini Middha | 1st June 2024  |
-| 4.      |  Capacity Building Training Workshop on Energy Conservation and Energy Efficiency | Organised by PEDA and supported by Monarch Design Studio | 9th February, 2024  |
-| 5.      | Expert Lecture for Students and Faculty   | Ar Sapna, Chief Architect - Department of Architecture, Punjab and past Vice President - Council of Architecture,| 15th January, 2024 |
-| 6.      | Seminar on 'Contemporary Elevators'	| r. Prabhjot Kaur, former director PIT Mohali | 17th Oct, 2023 |
-| 7.      | Seminar on "Preparing for Thesis and GATE: Roadmap to Achievement"	| Ar. Meet Fatewar, Assistant Professor - School of Architecture, Planning and Design, DIT University, Dehradun | 25th Sept,2023|
-| 8.      |  Seminar on Music & Architecture	| Ar. Amrita Kaur, a graduate of the University of Auckland, New Zealand |  24th Aug,2023 |
-| 9.      |  World Photography Day celebrated by organizing a Photography competition for the students | Ar. Dharini Middh, Assistant Professor- GNDEC School of Architecture | 24th Aug, 2023 |
-| 10.      |  Expert talk on 'Sustainability in Architecture '| Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture at GENCO RAW 2023| 22nd August, 2023 |
-| 11.      | Expert Lecture on 'Electrical Services in Architecture'| Dr. Randhir Singh, Associate professor (Physics), Applied Sciences Department, GNDEC  & Dr. Arvind Dhingra, Professor - Electrical Engineering Department , GNDEC  | 18th Sept, 2023 |
-| 12.      | Webinar on 'Site Planning'  | Er. Sukwant Singh Ar. Jit Kumar Gupta | 9th may, 2023 |
-| 13.      | Road Safety is no Accident'         | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture | 2nd May, 2023.|
-| 14.      | ‘Sustainability in Architecture’ in Capacity Building Training, Energy Conservation Week on Gulzar Group of Institutions, Ludhiana. | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture | 30th March 2023 |  
-
- 
-
-
-
-
-
-
-
-
-  
-
-
-
-  
-
+| Sr. No. | Name of Event Organized                                                                                                             | Delegate                                                                                                                                                        | Date                          |
+|:--------|:------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------|
+| 1.      | Study Visit for latest lighting fixtures and accessories                                                                            | SVICHLITE LIGHTING STORE, Ludhiana                                                                                                                              | 14th August, 2024             |
+| 2.      | Hands-on session with Brick Masonry at Chitkara University, Rajpura.                                                                | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture                                                                                             | 26th July 2024                |
+| 3.      | World Environment Day                                                                                                               | Ar. Dharini Middha                                                                                                                                              | 1st June 2024                 |
+| 4.      | Capacity Building Training Workshop on Energy Conservation and Energy Efficiency                                                    | Organised by PEDA and supported by Monarch Design Studio                                                                                                        | 9th February, 2024            |
+| 5.      | Expert Lecture for Students and Faculty                                                                                             | Ar. Sapna, Chief Architect - Department of Architecture, Punjab and past Vice President - Council of Architecture                                               | 15th January, 2024            |
+| 6.      | Seminar on 'Contemporary Elevators'                                                                                                 | Ar. Prabhjot Kaur, former director PIT Mohali                                                                                                                   | 17th Oct, 2023                |
+| 7.      | Seminar on "Preparing for Thesis and GATE: Roadmap to Achievement"                                                                  | Ar. Meet Fatewar, Assistant Professor - School of Architecture, Planning and Design, DIT University, Dehradun                                                   | 25th Sept, 2023               |
+| 8.      | Seminar on Music & Architecture                                                                                                     | Ar. Amrita Kaur, a graduate of the University of Auckland, New Zealand                                                                                          | 24th Aug, 2023                |
+| 9.      | World Photography Day celebrated by organizing a Photography competition for the students                                           | Ar. Dharini Middha, Assistant Professor - GNDEC School of Architecture                                                                                          | 24th Aug, 2023                |
+| 10.     | Expert talk on 'Sustainability in Architecture'                                                                                     | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture at GENCO RAW 2023                                                                           | 22nd August, 2023             |
+| 11.     | Expert Lecture on 'Electrical Services in Architecture'                                                                             | Dr. Randhir Singh, Associate Professor (Physics), Applied Sciences Department, GNDEC & Dr. Arvind Dhingra, Professor - Electrical Engineering Department, GNDEC | 18th Sept, 2023               |
+| 12.     | Webinar on 'Site Planning'                                                                                                          | Er. Sukwant Singh, Ar. Jit Kumar Gupta                                                                                                                          | 9th May, 2023                 |
+| 13.     | Road Safety is no Accident                                                                                                          | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture                                                                                             | 2nd May, 2023                 |
+| 14.     | ‘Sustainability in Architecture’ in Capacity Building Training, Energy Conservation Week on Gulzar Group of Institutions, Ludhiana. | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture                                                                                             | 30th March 2023               |
