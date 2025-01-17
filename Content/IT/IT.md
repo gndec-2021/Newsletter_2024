@@ -97,7 +97,7 @@ The Information Technology Department is dedicated to empowering students from d
 
 ### Sports & Extracuricular Achievements
 
-![HSR](Images/Sport_achievement.png)
+![HSR](Images/sport_achieve24.jpeg)
 
 
 ![HSR](Images/Radio.jpeg)
