@@ -121,8 +121,8 @@ The ITIAN Club is a technology based club created in 2021. The club is open to a
 
 
 ## Placements
-
 **Batch : 2020-2024**
+
 | Sr. No. | Candidate Name       | Company Name                               | Package (LPA) |
 |:--------|:---------------------|:-------------------------------------------|:--------------|
 | 1       | Chandan Kumar        | Argusoft                                   | 7.12          |
@@ -145,7 +145,9 @@ The ITIAN Club is a technology based club created in 2021. The club is open to a
 | 19      | Harmanpreet Kaur     | Ralson (India) Limited                     | 2.4           |
 | 20      | Aman Kumar           | Deepak Fasteners                           | 2.16          |
 
+
 **Batch : 2019-2023**
+
 | Sr. No. | Candidate Name       | Company Name                              | Package (LPA) |
 |:--------|:---------------------|:------------------------------------------|:--------------|
 | 1       | Shivay Bhandari      | Zomato Limited                            | 20            |
