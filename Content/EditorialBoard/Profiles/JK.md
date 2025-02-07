@@ -1,5 +1,5 @@
 
-| Photo                            | ![Jasmine pic](https://github.com/user-attachments/assets/328c1f85-ecc3-465e-ad25-de8a9465f2a0)  |
+| Photo                            | ![Jasmine pic](https://github.com/user-attachments/assets/bb6be4ea-127f-4838-a1a2-95fe1c0915a3) |
 |:---------------------------------|:------------------------------------------------------------------------------------------------------------|
 | Name                             | Jasmine Kaur                                                                                                |
 | Date of Birth                    | 17/07/1998                                                                                                 |
