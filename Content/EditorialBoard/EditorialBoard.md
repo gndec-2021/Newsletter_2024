@@ -26,7 +26,7 @@
 ***Contributing Editors***
 
 - [Dr. Arvind Dhingra (STEP)](https://gndec.ac.in/faculty/?id=68)
-- [Er. Satjot Singh Dhillon (PRO)](https://gndec.ac.in/faculty/?id=182) [and Er. Preeti Pannu (PRO)](https://gndec.ac.in/faculty/?id=267)
+- [Er. Satjot Singh Dhillon (PRO)](https://gndec.ac.in/faculty/?id=182) [and Er. Preeti Pannu (APRO)](https://gndec.ac.in/faculty/?id=267)
 - [Er. Jaswant Singh (Cultural)](https://gndec.ac.in/faculty/?id=333)
 
 
