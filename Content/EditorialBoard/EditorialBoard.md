@@ -15,7 +15,7 @@
 - [Er. Preeti Pannu (ECE)](https://gndec.ac.in/faculty/?id=267)
 - [Er. Kamaljeeet (CSE)](https://gndec.ac.in/faculty/?id=425)
 - [Er. Reema Verma (IT)](https://gndec.ac.in/faculty/?id=412)
-- [Er. Gulraj Singh](https://gndec.ac.in/faculty/?id=158) [and Er. Prem Singh (MPE)](https://gndec.ac.in/faculty/?id=102)
+- [Er. Prem Singh (MPE)](https://gndec.ac.in/faculty/?id=102)
 - [Er. Kamalpreet Kaur](https://gndec.ac.in/faculty/?id=393) [and Er. Harmandeep Kaur (CA)](https://gndec.ac.in/faculty/?id=386)
 - [Prof. Paramjit Singh (MBA)](https://gndec.ac.in/faculty/?id=441)
 - [Prof. Jasmine Kaur](https://gndec.ac.in/faculty/?id=375) [and Prof. Manjot Kaur (App. Sci.)](https://gndec.ac.in/faculty/?id=381)
@@ -26,7 +26,7 @@
 ***Contributing Editors***
 
 - [Dr. Arvind Dhingra (STEP)](https://gndec.ac.in/faculty/?id=68)
-- [Er. Satjot Singh Dhillon (PRO) and [Er. Preeti Pannu (PRO)](https://gndec.ac.in/faculty/?id=182)
+- [Er. Satjot Singh Dhillon (PRO)](https://gndec.ac.in/faculty/?id=182) [and Er. Preeti Pannu (PRO)](https://gndec.ac.in/faculty/?id=267)
 - [Er. Jaswant Singh (Cultural)](https://gndec.ac.in/faculty/?id=333)
 
 
