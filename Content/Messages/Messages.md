@@ -3,37 +3,34 @@
 
 ![P](Images/President.jpg)  
 
- <p align=justify>
- I am delighted to see the latest version of our college newsletter, which is a true testament to the constantly growing vibrancy and ever-evolving diversity of our college. Witnessing this exceptional growth fills me with immense pride and honor.
-I heartily congratulate all the students and the faculty members of GNDEC on their accomplishments in various fields. I also extend my warmest congratulations to all the editorial team whose dedication and creativity have helped to showcase the outstanding achievements of all the contributors through this newsletter. May you keep on progressing by leaps and bounds and bring more and more laurels to GNDEC!
- </p>
+<p align=justify>
+I am truly elated to peruse the latest edition of our college newsletter, a remarkable testament to the ever-growing vibrancy and evolving diversity of GNDEC. Witnessing this exceptional progress fills me with immense pride and honor. I extend my heartfelt congratulations to all the students and faculty members of GNDEC for their extraordinary achievements across a multitude of disciplines. Your dedication and perseverance are truly commendable. Additionally, I offer my sincere appreciation to the editorial team for their unwavering commitment and innovative creativity. Through your collective efforts, the exceptional accomplishments of our college community have been beautifully showcased. May you continue to thrive, achieving even greater milestones, and bringing further accolades to GNDEC!
+</p>
 
 **S. Harjinder Singh Dhami**  
-(President, SGPC and NSET, Ludhiana)
+(President, SGPC and Nankana Sahib Education Trust, Ludhiana)
 
 # Message from Secretary's Desk
 
-![S](Images/Secretary.jpg)  
-
+![Secretary](https://github.com/user-attachments/assets/94ddfd7f-96bc-48b9-892f-cc04c89f9f9f)
+ 
 <p align=justify>
-  It gives me an immense pleasure to extend my heartiest greetings to the students, faculty and staff of GNDEC on the launch of our college newsletter 2023 (Vol 11) which showcases the diverse experiences and accomplishments of the members of GNDEC family. From students’ success stories to faculty research updates, the newsletter is packed with valuable insights and information.
-I congratulate the editorial team and all the contributors who worked diligently and dedicatedly to bring this newsletter to fruition.  I am sure you all will keep on working hard to bring glory to the name of GNDEC.
- </p>
+It is with immense pleasure that I extend my heartfelt greetings to the students, faculty, and staff of GNDEC on the release of our college newsletter 2024 (Vol. 12), which eloquently highlights the diverse experiences and remarkable accomplishments of the GNDEC family. From inspiring success stories of our students to insightful updates on faculty research, this edition is brimming with valuable information and perspectives. I offer my sincere congratulations to the editorial team and all contributors who have worked with unwavering dedication and commitment to bring this newsletter to life. Your collective efforts are truly commendable, and I am confident that you will continue to work diligently, further elevating the prestige of GNDEC.
+</p>
 
-**Er. Sukhminder Singh**  
-(Secretary, Nankana Sahib Education Trust)
+**S. Shehbaz Singh**  
+(Secretary, Nankana Sahib Education Trust, Ludhiana)
 
 # Message from Director's Desk
 
-![D](Images/Director.jpg)  
+![D](Images/XYZA.jpg)  
 
 <p align=justify>
-  I am delighted to announce the release of college Newsletter 2023 (Vol 11), which provides an overview of the accomplishments and achievements of students and faculty members of GNDEC. From academic achievements to extracurricular accomplishments, the newsletter highlights the hard work and dedication of the team “GNDEC”.
-I extend my gratitude and best wishes to all the bestowers who have contributed to the successful creation of this newsletter.
-   </p>
+I am thrilled to announce the release of the College Newsletter 2024 (Vol. 12), which offers a comprehensive overview of the remarkable accomplishments and achievements of the students and faculty members of GNDEC. From outstanding academic feats to notable extracurricular successes, this edition celebrates the dedication and hard work of the entire "GNDEC" team. I would like to express my sincere gratitude and extend my best wishes to all the contributors whose efforts have been instrumental in bringing this newsletter to fruition.
+</p>
 
-**S. Inderpal Singh**   
-(Director, Nankana Sahib Education Trust)
+**S. ____**   
+(Director, Nankana Sahib Education Trust, Ludhiana)
 
 
 # Message from Principal's Desk
@@ -41,11 +38,7 @@ I extend my gratitude and best wishes to all the bestowers who have contributed 
 ![Principal](Images/Principal.png)  
 
 <p align=justify>
-  “Creative activity could be described as a type of learning process where teacher and pupil are located in the same individual”- Arther Koester.
-  </p>
-  <p align=justify>
-  As the next year unfolds, I would like to pause and reflect on a number of important and exciting developments of our college. The college has made tremendous progress in all areas-academic, non-academics, capacity building relevant to staff and students. It is a matter of great pride and satisfaction for Guru Nanak Dev Engineering College to bring out the Newsletter 2023 (volume11). It showcases how GNDEC is on continuous journey of knowledge enrichment and career growth. It is a reflection of our achievement in hitting the right notes for the multifaceted growth of our learning partners. The events that are organized in the departments concentrate on molding the caliber of the students. We also work on creating young active citizens who feels highly responsible towards society. The way to access this key is by participating actively. I am confident that the issue of Newsletter 2023 will send a positive signal to the faculty, staff and the students who are interested in the Technical education and Technology based activities. I congratulate the Editorial Board of Newsletter 2023 who have played wonderful role in accomplishing the task in record time. The multi-partner involvement of each and every one has shown a great result.
-  With these words, I wish you all would enjoy reading the Newsletter 2023 of GNDEC family!!
+As we step into the new year, it is a moment to pause and reflect on the many significant and exciting developments at our college. Guru Nanak Dev Engineering College has made remarkable strides in all areas-academic, non-academic, and in the capacity building of both staff and students. It fills me with immense pride and satisfaction to announce the release of the Newsletter 2024 (Volume 12). This edition highlights GNDEC's ongoing journey of knowledge enrichment and career advancement. It stands as a testament to our commitment to fostering holistic growth and development for all our learning partners. The events organized across various departments are focused on honing the potential and caliber of our students, while also nurturing them into responsible, active citizens who feel a deep sense of duty toward society. The key to unlocking this potential lies in active participation, and I am confident that the 2024 edition of the newsletter will resonate positively with our faculty, staff, and students who are passionate about technical education and technology-based activities. I would like to extend my heartfelt congratulations to the Editorial Board of Newsletter 2024 for their outstanding efforts in completing this task in record time. The collaborative involvement of all parties has yielded exceptional results. With these words, I hope you will enjoy reading the Newsletter 2024 and continue to take pride in the accomplishments of the GNDEC family.
 </p>
 
 **Dr. Sehijpal Singh**  
