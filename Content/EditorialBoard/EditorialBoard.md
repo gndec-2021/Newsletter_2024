@@ -18,7 +18,7 @@
 - [Er. Prem Singh (MPE)](https://gndec.ac.in/faculty/?id=102)
 - [Er. Kamalpreet Kaur](https://gndec.ac.in/faculty/?id=393) [and Er. Harmandeep Kaur (CA)](https://gndec.ac.in/faculty/?id=386)
 - [Prof. Paramjit Singh (MBA)](https://gndec.ac.in/faculty/?id=441)
-- [Prof. Jasmine Kaur](https://gndec.ac.in/faculty/?id=375) [and Prof. Manjot Kaur (App. Sci.)](https://gndec.ac.in/faculty/?id=381)
+- [Prof. Jasmine Kaur](Profiles/JK.md) [and Prof. Manjot Kaur (App. Sci.)](https://gndec.ac.in/faculty/?id=381)
 - [Ar. Gazal Soni (SoA)](Profiles/Gazal.pdf)
 - [Dr. Gunjan Bhardwaj (Sports)](https://gndec.ac.in/faculty/?id=33)
 - [Er. Sachin Bagga (T&P)](https://gndec.ac.in/faculty/?id=208)
