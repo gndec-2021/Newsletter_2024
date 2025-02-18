@@ -19,7 +19,7 @@
 - [Er. Kamalpreet Kaur](https://gndec.ac.in/faculty/?id=393) [and Er. Harmandeep Kaur (CA)](https://gndec.ac.in/faculty/?id=386)
 - [Prof. Paramjit Singh (MBA)](https://gndec.ac.in/faculty/?id=441)
 - [Prof. Jasmine Kaur](Profiles/JK.md) [and Prof. Manjot Kaur (App. Sci.)](https://gndec.ac.in/faculty/?id=381)
-- [Ar. Gazal Soni (SoA)](Profiles/Gazal.pdf)
+- Ar. Neha Garg (SoA)
 - [Dr. Gunjan Bhardwaj (Sports)](https://gndec.ac.in/faculty/?id=33)
 - [Er. Sachin Bagga (T&P)](https://gndec.ac.in/faculty/?id=208)
 
@@ -27,7 +27,7 @@
 
 - [Dr. Arvind Dhingra (STEP)](https://gndec.ac.in/faculty/?id=68)
 - [Er. Satjot Singh Dhillon (PRO)](https://gndec.ac.in/faculty/?id=182) [and Er. Preeti Pannu (APRO)](https://gndec.ac.in/faculty/?id=267)
-- [Er. Jaswant Singh (Cultural)](https://gndec.ac.in/faculty/?id=333)
+- [Er. Jaswant Singh (Cultural Committee)](https://gndec.ac.in/faculty/?id=333)
 
 
 # Advisory Board
