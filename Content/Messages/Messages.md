@@ -23,13 +23,13 @@ It is with immense pleasure that I extend my heartfelt greetings to the students
 
 # Message from Director's Desk
 
-![D](Images/XYZA.jpg)  
+![iqbal Singh](https://github.com/user-attachments/assets/f2916a74-53a8-4933-83d5-a3526c493aaf)
 
 <p align=justify>
 I am thrilled to announce the release of the College Newsletter 2024 (Vol. 12), which offers a comprehensive overview of the remarkable accomplishments and achievements of the students and faculty members of GNDEC. From outstanding academic feats to notable extracurricular successes, this edition celebrates the dedication and hard work of the entire "GNDEC" team. I would like to express my sincere gratitude and extend my best wishes to all the contributors whose efforts have been instrumental in bringing this newsletter to fruition.
 </p>
 
-**S. ____**   
+**S. Iqbal Singh**   
 (Director, Nankana Sahib Education Trust, Ludhiana)
 
 
