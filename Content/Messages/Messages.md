@@ -35,7 +35,7 @@ I am thrilled to announce the release of the College Newsletter 2024 (Vol. 12), 
 
 # Message from Principal's Desk
 
-![Principal](Images/Principal.png)  
+![Principal](https://github.com/user-attachments/assets/b3fef35b-262c-4aef-b168-9d7566a6448f)
 
 <p align=justify>
 As we step into the new year, it is a moment to pause and reflect on the many significant and exciting developments at our college. Guru Nanak Dev Engineering College has made remarkable strides in all areas-academic, non-academic, and in the capacity building of both staff and students. It fills me with immense pride and satisfaction to announce the release of the Newsletter 2024 (Volume 12). This edition highlights GNDEC's ongoing journey of knowledge enrichment and career advancement. It stands as a testament to our commitment to fostering holistic growth and development for all our learning partners. The events organized across various departments are focused on honing the potential and caliber of our students, while also nurturing them into responsible, active citizens who feel a deep sense of duty toward society. The key to unlocking this potential lies in active participation, and I am confident that the 2024 edition of the newsletter will resonate positively with our faculty, staff, and students who are passionate about technical education and technology-based activities. I would like to extend my heartfelt congratulations to the Editorial Board of Newsletter 2024 for their outstanding efforts in completing this task in record time. The collaborative involvement of all parties has yielded exceptional results. With these words, I hope you will enjoy reading the Newsletter 2024 and continue to take pride in the accomplishments of the GNDEC family.
