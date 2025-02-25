@@ -34,17 +34,15 @@ A workshop was organised by E2S2 society of Electrical Engineering Department. T
  
  **Pf.Arshdeep Kaur, Pf.Sukhpal Singh and Pf. Puneet** along with Second year students at SLDC , Patiala.
 
-**Glimpses of Teacher’s day celebration organised by Students of Electrical Engineering Department  on 5th of september,2022.**
+**Glimpses of Teacher’s day celebration organised by Students of Electrical Engineering Department.**
 ![teacher day](https://user-images.githubusercontent.com/78653670/229407810-2e518b77-515e-40b6-9dbd-38b9abfbbf68.jpeg)
 
 **Dr Arvind Dhingra and Mentor’s of First Year Students ** Welcomed first year student of Electrical Engineering department.**
 ![mentor](https://user-images.githubusercontent.com/78653670/229407912-f8398d9d-6af1-400c-b26d-82cf971eeabc.jpeg)
 
-**Organised expert lecture delivered by wonder automation training division on Industrial Drives and its usage on 30th November 2022**
+**Organised expert lecture delivered by wonder automation training division on Industrial Drives and its usage**
 ![automation](https://user-images.githubusercontent.com/78653670/229407994-6d3bd5c2-9b1f-4c71-96f6-18962694b6f5.jpeg)
 
-**Organised an expert lecture on power system deregulation on 6th September 2022**
-![PS der](https://user-images.githubusercontent.com/78653670/229408035-77f32fa3-a95c-4af1-be4b-fcd036808e22.jpeg)
 
 
 ## Book Published  
@@ -61,29 +59,11 @@ A workshop was organised by E2S2 society of Electrical Engineering Department. T
 - **Dr.Arvind Dhingra** won ISTE Section Best Teacher by ISTE,Nov 8,2023
 - **Dr.Arvind Dhingra** won Rising Star of India Award by CT University	Dec 2,2023
 - **Dr.Arvind Dhingra** won Global Iconic Award by Excellence in Academic Leadership,Kathmandu University,Dec 6,2023
-- **Dr. Arvind Dhingra** won Best Faculty Award by IISA, August,2022.
-- **Dr. Arvind Dhingra** won Golden Pinnacle Award, National Sports & Amp; Youth development Council, June,2021.
-- **Dr. Arvind Dhingra** won International Adroit Educator Award,2021 by Green Thinkerz International Adroit Educator Award,2021 by Green Thinkerz
-- **Dr. Arvind Dhingra** won award for mentoring students in Innovative Projects Competition on theme of Energy Conservation and Energy Efficiency organized by   Punjab Energy Development Agency, March,2021. 
-- **Dr. Arvind Dhingra** won International Best Adroit Educator Award at Green Thinkerz Dec, 31, 2021.
-- **Dr. Kanwardeep Singh** got finanical award for paper publication in SCIE journal, 2021.
-- **Dr. Arvind Dhingra** published book	Electronics – Electrician domestic Job Role Electrician Domestic: NSQF Level-2,MBD Publications, March,2020: ISBN 2002M5507C5779
--  **Dr. Arvind Dhingra** won Dr.Sarvepalli Radhakrishnan Award at Educator’s Commemoration Ceremony by MentorX, September 5,2020.
-- **Dr. Arvind Dhingra** won I2OR National eminent Educator Award 2020, I2OR.
-- **Dr. Arvind Dhingra** won ISTE Best teacher award 2020 awarded at Chandigarh University, ISTE Teachers Convention, 2020, December 23,2020
-- **Er. Karanbir Singh** got Best Paper Award  for a paper entitled Residential Load  profile optimization using DSM  by  incorporating  models  of  Appliances  at  TEQIP-III sponsored  International Congress  on  Sustainable  Development  through  Engineering  Innovations  held  on September  17-19,  2020,  organized  by  the  college  in  association  with  Indian Geotechnical Society: Ludhiana Chapter and  Institution  of  Engineers (I): Ludhiana Center.
 
 
-
-## Publications  
+# Publications  
 - **Dr Kanwardeep Singh**,Anupam Mittal,"Quantitative impact assessment of transmission congestion and demand side management on electricity producers’ market power" International Journal of Emerging Electric Power Systems,2024.
 - **Dr Kanwardeep Singh**,Raja Gopal Peesapati, Vinod Kumar Yadav and Santosh Ghosh"Optimal Scheduling of BESS for Congestion Management Considering Reliability and OTS",Sustainable Energy, Grids and Networks volume 38,2024.
-- **Dr Kanwardeep Singh**,Bharti Koul and Y.S. Brar "Robust and Comfortable Day-Ahead Demand Side Management of Residential, Industrial and Commercial Consumers for Demand Normalization",International Journal Electric Power Components and Systems volume50(3) page no.101-119,2022.
-- **Dr Kanwardeep Singh**,Bharti Koul and Y.S. Brar,"Improvements in Deviation Settlement Mechanism of Indian Electricity Grid System through Demand Response Management" International Journal of Emerging Electric Power Systems, volume 23(4) page no 605-620,2022.
-- **Dr Kanwardeep Singh**, Anu Singla and Vinod Kumar Yadav, ''Optimization of Distributed Solar Photovoltaic Power Generation in Day-Ahead Electricity Market Incorporating Irradiance Uncertainty'' published in Journal of Modern Power System and Clean Energy (SCIE, Impact factor 3.09, Print/Electronic ISSN:2196- 5625 /2196-5420, 2021)
-- **Dr Kanwardeep Singh** and Anupam Mittal ''Control of Market Power Using Demand Responsiveness in Congested Restructured Power System Networks'' at International Conference on Computing, Networks & Renewable Energy, IKG Punjab Technical University, Kapurthala, August 5-6, 2021.
-- **Dr Kanwardeep Singh** and Parminder Singh "Electric Load Forecasting Using Bi-LSTM Based Artificial Neural Technique"at International Conference on Computing, Networks & Renewable Energy, IKG Punjab Technical University, Kapurthala, August 5-6, 2021.
-- **Dr Kanwardeep Singh**, Research Paper Titled “Optimizing Distributed Solar Photovoltaic Power Generation in Day- Ahead Electricity Market Incorporating Irradiance Uncertainty" published in Journal of Modern Power Systems and Clean Energy (Science Citation Index Expanded, ISSN: 2196-5625/ e-ISSN:2196-5420, impact factor: 3.09, open access), October 21st ,2020
 - **Dhingra Arvind**,Khanna, A., Sharma, R., A., Dhaliwal,"Preventive breakdown and fault detection of machine using industrial IOT in maintenance and automation"Materials Today Proceedings	March,2023 ISSN NO2214-7853
 - **Dhingra Arvind**,Kaur, H., Gupta, S.,"Selection of solar panel using entropy TOPSIS technique"Materials Today Proceedings,March,2023,ISSN NO.2214-7853
 - **Dhingra Arvind**,Singh Beant,Singh Karanbir"Enhancing Reactive Power Compensation in Solar Photovoltaic system with the use of FOPID controlled STATCOM"International Journal of Research Publication and Reviews, Vol4.,issue 8,ISSN NO.2582-7421
@@ -125,21 +105,14 @@ of Evolution in Bio Medical Sector" in  Materials Today: Proceedings, 2021
 - **Mandeep Kaur** and Nitin Narang,"Non-interactive approach to solve multi-objective optimal power flow problem	Electrical Engineering	103	167-182	2021
 - **Mandeep Kaur** and Nitin Narang," An integrated optimization technique for optimal power flow solution",Soft Computing volume 24,ISSN 10865-10882,2020
 
+
 ## Events Organized (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
 
 
 | Sr. No. | Name of Event                                                  | Faculty Coordinator           | Duration | Date(s)               | Sponsor(s) |
 |:--------|:--------------------------------------------------------------|:------------------------------|:---------|:----------------------|:-----------|
-|1|IEEE lecture series on Electrical systems for general industry|Dr. Arvind Dhingra and Arshdeep Kaur    | 1 Day|11th may 2022|GNDEC, LUDHIANA|
-|2|Short Term Course on Technology Enabled Teaching Learning | Dr. Arvind Dhingra|5 Days|16-20 Jan 2023|GNDEC,Ludhiana|
-|3|IEEE Lecture series organised by IEEE students chapter GNDEC and Electrical Engineering Student society|Dr. Arvin Dhingra and Pf Arshdeep Kaur|1 week|April- May 2022|GNDEC Ludhiana|
-|4|Workshop on Virtual Reality and artificially intelligence: perspective for industry 4.0|Dr. Arvind Dhingra, Pf. Sukhpal and Pf Amrinder Kaur|1 Day|18th December 2022|GNDEC Ludhiana|
-|5| Expert lecture by wonder automation on Industrials Drives and its usage |Dr Arvind Dhingra|1 Day|30th November 2022|GNDEC Ludhiana|
-|6|  Industrial Tour Visit to NPTI Nangal|Dr. Navneet Singh Bhangu|1 Day|26th November, 2022|GNDEC Ludhiana|
-|7|Industrial Tour Visit to NPTI Nangal|Dr. Kanwardeep Singh|1 Day|2nd Dec, 2021|GNDEC, LUDHIANA|
-|8 | ICT enabled FDP on Energy Conservation and Management (Run-2) | Dr Arvind Dhingra | One Week | 04-08 May, 2020 | TEQIP-III |GNDEC, LUDHIANA|
-|9|ICT enabled FDP on Energy Conservation and Management(Run-1)|Dr. Arvind Dhingra |3 Days| April 27- May 1|GNDEC, LUDHIANA|
-|10|ICT enabled FDP on Energy Conservation and Management(Run-1)|Dr. Arvind Dhingra |3 Days| April 27- May 1|GNDEC, LUDHIANA|
+|1|Short Term Course on Technology Enabled Teaching Learning | Dr. Arvind Dhingra|5 Days|16-20 Jan 2023|GNDEC,Ludhiana|
+
 
 
 
@@ -155,46 +128,9 @@ of Evolution in Bio Medical Sector" in  Materials Today: Proceedings, 2021
 |5|Dr Arvind Dhingra|Workshop on Next Generation Smart Mobility|Two|Aug 26-27,2023|IIT, Ropar|
 |6|Dr Arvind Dhingra|Webinar on Advancing Higher Education with Industry led Micro credentials|One|February 2,2023|Coursera|
 |7|Dr Arvind Dhingra|FDP on Technology Enabled Teaching-Learning|Six|Jan 16-20,2023|NITTTR, Chandigarh|
-|8|Dr. Arvind Dhingra| SPARC course on Smart Grids: Future Intelligent electricity Distribution Grids | Five Days| (February 4-14,2022)| , MNIT Jaipur & Cardiff University, UK|
-|9| Dr. Arvind Dhingra |  FDP on Green and Intelligent Buildings |1 Week |April 14th-18th,2020  | NITTTR, Chandigarh |
-|10 |  Dr. Arvind Dhingra |    FDP on Technological Advancement in Power System Control, Power Controllers, drives & E- Vehicles- TAPPAD2020  |  1 Week     |   April 27th- May 1st,2020 | Dr NGP Institute of Technology, Coimbatore |   
-|11|Dr. Arvind Dhingra|IGEN PIT FDP on Renewable Energy Systems	|1 Week|June 8-12th , 2020|The Institution of Green Engineers, Panimalar Institute of Technology, Chennai|
-| 12| Dr. Arvind Dhingra         |     TEQIP-III sponsored Efficient, trackable and sustainable workflow, Examination Branch          |     1 Week    |      December 2nd -7th, 2020    |           GNDEC, Ludhiana       |
-| 13 | Dr. Navneet Singh Bhangu|Energy Conservation and Management, TEQIP-III sponsored ICT enabled FDP|1 week|April 27 to May 1, 2020|EED at GNDEC, Ludhiana|
-|14|Dr. Navneet Singh Bhangu|Online AICTE Recognized FDP On	Waste Management|1 week| May 11th -15th 2020| Mechanical Engg. Deptt., NITTTR Chandigarh|
-|15|Dr. Navneet Singh Bhangu|Education 4.0: Reliability Centered Maintenance, Webinar|1 day|July 19th 2020 |School of Mechanical Engineering (SMEC) Vellore Institute of Technology, Chennai |
-|16|Dr. Navneet Singh Bhangu|Professional Development Training Program for Faculty and Administrators of Project Institutions of TEQIP-III, National Project Implementation Unit, MHRD, Govt. of India|2 days|26 to 28 November 2020|Indian Institute of Management (IIM),Visakhapatnam |
-|17|Dr. Navneet Singh Bhangu|Digital Transformation of Institutions of Higher Learning|1 week| December 1st -6th 2020| National Academy of Human Resource Development,New Delhi|
-|18|Er. Rupinderjit Singh|Education 4.0: Reliability Centered Maintenance, Webinar|1 day|19th July|School of Mechanical Engineering (SMEC) Vellore Institute of Technology, Chennai |
-|19|Er. Rupinderjit Singh|Professional Development Training Program for Faculty and Administrators of Project Institutions of TEQIP-III, National Project Implementation Unit, MHRD, Govt. of India|2 days|26 to 28 November 2020|Indian Institute of Management (IIM),Visakhapatnam|
-|20|Er. Ravinder Kaur|Two Weeks AICTE Sponsored FDP Under AQIS:Innovative Pedagogical Methodologies And Tools For Effective Learning In Engineering Education|2 Weeks| October 26th to November 7th, 2020|Department Of Business Administration,GNDEC,Ludhiana|
-|21|Er. Samreet Kaur|AICTE Sponsored FDP Under AQIS:Innovative Pedagogical Methodologies And Tools For Effective Learning In Engineering Education|Two Weeks |October 26th to November 7th, 2020| Department Of Business Administration,GNDEC,Ludhiana||
-|22|Er. Amandeep Singh|FDP on “Advanced Optimization Techniques and hands-on with MATLAB/SCILAB”|2 Week|13 – 24 July 2020|Electronics and ICT Academies” by the Ministry of Electronics and Information Technology (MeitY), Government of India.|
-|23|Er.Amandeep Singh|Webinar on"Power Monitoring, Home Automation and Building Management System"|1 Week|June 29-3 July 2020|School of Electrical Engineering KIIT, Bubnehwar and Schneider electric india|
-|24| Er. Amandeep Singh|Webinar on ABB Heavy Vehicle Charging|1 Day|July 7th 2020|ABB Australia|
-|25|Er. Amandeep Singh|Electric Vehicle:New Trends and Technologies|1 Week| 22-26 June 2020|ABES Engineering College, Ghaziabad|
-|26|Er. Karanbir Singh|FDP on “Advanced Optimization Techniques and hands-on with MATLAB/SCILAB”|2 Week|13 – 24 July 2020|Electronics and ICT Academies” by the Ministry of Electronics and Information Technology (MeitY), Government of India.|
-|27|Er. Karanbir Singh|Webinar on"Power Monitoring, Home Automation and Building Management System"|1 Week|June 29-3 July 2020|School of Electrical Engineering KIIT, Bubnehwar and Schneider electric india|
-|28|Er.Karanbir Singh|  Workshop on Virtual Labs|1 Day| December 3rd, 2021| GNDEC,Ludhiana |
-|29|Er. Gagandeep Kaur Gill|TEQIP –III sponsored STTP on “PLC, Drives and Industrial Automation”|1 Weeks|March 2nd -6th,2020|Sant Longowal Institute of Engineering and Technology, Longowal|
-|30|Er. Gagandeep Kaur Gill|Two Week Faculty Development Programme on “Digital Design and Emerging Trends in Signal Processing”|2 Weeks| August 10-22, 2020|Department of Electronics & Communication Engineering, Government Engineering College Bikaner.|
-|31|Er. Gagandeep Kaur Gill| Innovative Pedagogical Methodologies And Tools For Effective Learning In Engineering Education|2 Weeks| December 7th to  December 21st, 2020|Department Of Business Administration, GNDEC,Ludhiana|
-|32|Er. Bhawna|Innovative Pedagogical Methodologies and Tools for Effective Learning in Engineering Education |2 Weeks| December 7th to  December 21st, 2020|Department Of Business Administration,GNDEC,Ludhiana|
-|33|Er. Bhawna|  AICTE approved FDP course on "Electrical Vehicles ”|4 Week|January – March 2020| NPTEL Online Course.|
-|34|Er. Bhawana|  Workshop on Virtual Labs|1 Day| December 3rd, 2021| GNDEC,Ludhiana |
-|35|Er. Arshdeep Kaur|Technology enabled teaching learning|Five days|16th January -20th January 2023|NIITR, Chandigarh|
-|36|Er. Arshdeep Kaur|Faculty Development Programme on “Recent Trends in Renewable Energy: Opportunity & Challenges”|Five days|31st Jan-05th February, 2022|Department of Electrical Engineering, Guru Jambheshwar University of Science & Technology, Hisar, Haryana-125001|
-|37|Er. Arshdeep Kaur|Creating future path of Scientific development|Five days|18th -22nd May 2022|NIITR Chandigarh|
-|38|Er. Arshdeep Kaur|FDP on ICT Initiatives in technical education|Five days|8th-13th february 2021|SWAYAM NPTEL local chapter,GNDEC,Ludhiana|
-|39|Er. Arshdeep Kaur|TEQIP –III sponsored STTP on “PLC, Drives and Industrial Automation”|1 Weeks|March 2nd -6th,2020|Sant Longowal Institute of Engineering and Technology, Longowal|
-|40|Er. Arshdeep Kaur|Two Week Faculty Development Programme on “Digital Design and Emerging Trends in Signal Processing”|2 Weeks| August 10-22th, 2020|Department of Electronics & Communication Engineering, Government Engineering College Bikaner|
-|41|Er. Arshdeep Kaur|One-week Online Short Term Training Program (STTP) on “Recent Trends in Instrumentation Engineering”|1 Week|September 7th-11th, 2020|Department of Electrical Engineering, NIT, Uttarakhand and Department of Electrical & Instrumentation Engineering, SLIET Longowal, Punjab |
-|42|Er. Arshdeep Kaur|Two Weeks AICTE Sponsored FDP Under AQIS:Innovative Pedagogical Methodologies And Tools For Effective Learning In Engineering Education|2 Weeks| October 26th to November 7th, 2020|Department Of Business Administration,GNDEC,Ludhiana|
-|43|Er. Arshdeep Kaur|  AICTE approved FDP course on "Introduction to smart grids ”|8 Week|September 14th-December 18th, 2020| NPTEL Online Course |
-|44|Er. Arshdeep Kaur|  Workshop on Virtual Labs|1 Day| December 3rd, 2021| GNDEC,Ludhiana|
-|45|Er. Swapandeep|  Workshop on Virtual Labs|1 Day| December 3rd, 2021| GNDEC,Ludhiana |
-|46|Er.Puneet|  Workshop on Virtual Labs|1 Day| December 3rd, 2021| GNDEC,Ludhiana |
-|47|Er.Sukhpal Singh|  Workshop on Virtual Labs|1 Day| December 3rd, 2021| GNDEC,Ludhiana |
+|8|Er. Arshdeep Kaur|Technology enabled teaching learning|Five days|16th January -20th January 2023|NIITR, Chandigarh|
+
+
 
 
 ## Student's Corner  
@@ -214,9 +150,10 @@ of Evolution in Bio Medical Sector" in  Materials Today: Proceedings, 2021
 ![project o](https://user-images.githubusercontent.com/78653670/229409104-94bb6193-e7c2-48d5-b8f0-497f15c2904c.jpeg)
 
 **Simran Kaur Rajpal and Tania Sharma** post graduate students worked on smart grid project and got first prize at NITTTR Chandigarh under the guidance of **Pf.Kanwardeep Singh**
+
 ### Student's Achievements
 
-Project filed for Patent in December 2020.
+Project filed for Patent.
 
 - **Abhishek Goyal, Gurpartap Singh, Kunal Singla and Mainik Walia**
  made the project "Sky Robot" under the guidance of **Dr. Arvind Dhingra** .This robot is to help maintain a vigil against unwanted intruders. The robot is so designed so as to work effectively during day and night with same efficiency. The robot is capable of sending an alarm in case of any unwanted activity. This will help our soldiers guarding our borders to maintain effective vigil.
@@ -233,9 +170,6 @@ Project filed for Patent in December 2020.
 - Organised Workshop on **Virtual Reality and artificially intelligence:** perspective for industry 4.0 on 18th December 2022.
 - Organised expert lecture delivered by **Wonder automation training division** on Industrial Drives and its usage on 30th November 2022.
 
- 
   ![12](https://user-images.githubusercontent.com/78653670/229409992-710fe9d0-6414-4976-94ab-be8ca5a67c2a.jpeg)
 
-  ![13](https://user-images.githubusercontent.com/78653670/229410027-c3ebfbb1-2fca-447a-ad11-84b1d5a6fc5e.jpeg)
-
-   **Deepak Kumar** of Electrical Engineering Department won First prize 2nd year.
+ 
