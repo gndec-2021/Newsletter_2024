@@ -54,7 +54,7 @@ A workshop was organised by E2S2 society of Electrical Engineering Department. T
 
 ## Faculty Achievements
 			
-- **Dr.Arvind Dhingra** won Proud Indian Iconic Teacher & researcher Award by Ratna Prasad Multidisciplinary Research & Educational Society, Jan 26,2023
+- **Dr.Arvind Dhingra** won Proud Indian Iconic Teacher & researcher Award by Ratna Prasad Multidisciplinary Research & Educational Society, Jan 26,2024.
 - **Dr.Arvind Dhingra** won International Eminent Scientist Award by International Multidisciplinary Research Foundation on Oct 5,2023
 - **Dr.Arvind Dhingra** won ISTE Section Best Teacher by ISTE,Nov 8,2023
 - **Dr.Arvind Dhingra** won Rising Star of India Award by CT University	Dec 2,2023
@@ -64,46 +64,15 @@ A workshop was organised by E2S2 society of Electrical Engineering Department. T
 # Publications  
 - **Dr Kanwardeep Singh**,Anupam Mittal,"Quantitative impact assessment of transmission congestion and demand side management on electricity producers’ market power" International Journal of Emerging Electric Power Systems,2024.
 - **Dr Kanwardeep Singh**,Raja Gopal Peesapati, Vinod Kumar Yadav and Santosh Ghosh"Optimal Scheduling of BESS for Congestion Management Considering Reliability and OTS",Sustainable Energy, Grids and Networks volume 38,2024.
-- **Dhingra Arvind**,Khanna, A., Sharma, R., A., Dhaliwal,"Preventive breakdown and fault detection of machine using industrial IOT in maintenance and automation"Materials Today Proceedings	March,2023 ISSN NO2214-7853
+- - **Dhingra Arvind**,Singh Beant,Singh Karanbir"Enhancing Reactive Power Compensation in Solar Photovoltaic system with the use of FOPID controlled STATCOM"International Journal of Research Publication and Reviews, Vol4.,issue 8,ISSN NO.2582-7421,2024
+- **Dhingra Arvind**,Dhingra Arvind, Dhingra Ketan,"Energy Conservation for a Sustainable Future"Proceedings of International Multidisciplinary Conference on Current Research Trends,Vol.I 789390,ISSN NO.188789,2024
+- **Dhingra Arvind**,Khanna, A., Sharma, R., A., Dhaliwal,"Preventive breakdown and fault detection of machine using industrial IOT in maintenance and automation"Materials Today Proceedings,March,2023 ISSN NO2214-7853
 - **Dhingra Arvind**,Kaur, H., Gupta, S.,"Selection of solar panel using entropy TOPSIS technique"Materials Today Proceedings,March,2023,ISSN NO.2214-7853
-- **Dhingra Arvind**,Singh Beant,Singh Karanbir"Enhancing Reactive Power Compensation in Solar Photovoltaic system with the use of FOPID controlled STATCOM"International Journal of Research Publication and Reviews, Vol4.,issue 8,ISSN NO.2582-7421
-- **Dhingra Arvind**,Dhingra Arvind, Dhingra Ketan,"Energy Conservation for a Sustainable Future"Proceedings of International Multidisciplinary Conference on Current Research Trends,Vol.I 789390,ISSN NO.188789	
-- **Dhingra Arvind** , Kaur Harpreet, Gupta Surbhi "Agricultural waste power generation in Ludhiana district, Punjab, India" in Elsvier Materials Proceedings, 2021
-- **Dhingra Arvind**, A. Khanna, R. Pandey, J. Madan "Numerical Simulation and Optimisation of Wide Bandgap (1.45eV) PbSCQD Solar Cell for 14% Conversion Efficiency" in 48th IEEE Photovoltaic Specialists Conference (PVSC 48), 2021
-- **Dhingra Arvind**, A. Khanna, R. Pandey, J. Madan "Thickness Optimisation and Defect Analysis of Wide Bandgap PbS-CQD Solar Cell by SCAPS-1D Simulations in 48th IEEE Photovoltaic Specialists Conference (PVSC 48), 2021"
-- **Dhingra Arvind**, Singh Parminder, Nijhawan Parag, Model reduction of linear time invariant SISO systems using different optimal techniques, International Conference on Sustainable Developments through Engineering Innovations SDEI’20, Guru Nanak Dev Engineering College, Ludhiana, September 17-19th,2020
-- **Dhingra Arvind**, Nijhawan Parag, Manish Kumar Singla, Meera Sharma, Sensor based optimization of energy in internet of things: A review, International Conference on Sustainable Developments through Engineering Innovations SDEI’20, Guru Nanak Dev Engineering College, Ludhiana, September 17-19th,2020
--**Dhingra Arvind**, Sidhu Sukhjot, Day ahead forecasting in PSPCL, International Conference on Sustainable Developments through Engineering Innovations SDEI’20, Guru Nanak Dev Engineering College, Ludhiana, September 17-19th,2020
-- **Dhingra Arvind**, Singh Tejinder, Energy conservation for sustainable future, International Conference on Sustainable Developments through Engineering Innovations SDEI’20, Guru Nanak Dev Engineering College, Ludhiana, September 17th-19th,2020.
-- **Navneet Singh Bhangu** "Performance Analysis of s unidentical k-out-of-n System using Reliability Block Diagram and Fault Tree Technique: A Case Study" in Journal of Engineering & Technology Education (2229-631X, UGC) ,2021
-- **Navneet Singh Bhangu**,   Application of Fault Tree Analysis for Evaluating Reliability: A Case Study of Gear Box of Wind Turbine, International Journal of Advanced Science and Technology Volume 29 Issue 3, March 2020, ISSN: 2005-4238 (Print), ISSN: 2207-6360 (Online), Pages: 4486-4492, SCOPUS Indexed Journal.
-- **Rupinderjit Singh** and Manmohit Sharma Estimation of Power Generation using Bio Mass: A case study of Sirmaur District (H.P.) in Int. Research Jour. Of Modernization in Engineering Technology and Science, 2021
-- **Ravinder Kaur** Binny Sharma "comparative study of multi level inverters based on the outputput total Harmonic distortion" in International Reasereach journal of Engineering Technology, 2021
-- **Baljeet Singh**, **Puneet Chandel** "Power Quality Improvement in Power System using UPFC" in International Journal of all Research education and Scientific methods, 2021.
-- **Baljeet Singh**, **Puneet Chandel** "Impact of Upfc on the
-Power Quality in Grid" in International Journal of
-Engineering Applied Sciences and Technology, 2021.
-- **Kuldeep Singh**, **Baljeet Singh** "Optimal Placement of phasor measuring unit in power system" in International Journal of Engineering Sciences & Research Technology, 2021
-- **Kuldeep Singh**, **Karanbir Singh** "Optimal Placement on Extra High Voltage Bus System of Northern Eastern Region of Indian Power Grid Using PSAT " in International Journal of Engineering Sciences & Research Technology, 2021
-- **Karanbir Singh**,Singh Beant,Dhingra Arvind "Enhancing Reactive Power Compensation in Solar Photovoltaic system with the use of FOPID controlled STATCOM"International Journal of Research Publication and Reviews, Vol4.,issue 8,ISSN NO.2582-7421
-- **Karanbir Singh**, **Kuldeep Singh** "Home Energy Management System using WHALE Optimization Algorithm" in International Conference on Computing, Network & renewable energy
-- **Karanbir Singh**, **Kuldeep Singh** and **Amandeep Singh Ghatora** ,presented paper titled “Residential Load Profile Optimization using DSM by incorporating models of appliances”, in SDEI international conference September 17th -19th 2020.
-- **Karanbir Singh**, presented research paper titled  “Demand Side Management for cost and peak load optimization with load modelling”, in IEMERA in Imperial College, London, U.K from  March 26th-28th 2020.
-- **Gagandeep Kaur Gill** and **Rupinderjit Singh** presented paper titled “Bagasse congeneration plant efficiency improvement by using data envelopment analysis models"in SDEI international conference September. 17th -19th 2020.
 - **Arshdeep Kaur** and Sanpreet Singh,"Study the impact of different parameters on driving range of electric vehicle using MATLAB simulink"by International	International Journal of Engineering & Management Technology,Volume 02 issue 06,2023	
 - **Arshdeep Kaur** and Swapandeep Kaur,"Piezoelectric materials in sensors: Bibliometric and visualization analysis"by International Conference Materials Today: Proceedings,c.no ICMSSMT/2022.2022.
-- **Arshdeep Kaur** and Dr. Y.S Brar , presented paper titled "Optimization of Power System Using Static Synchronous Compensator to Enhance Voltage Stability" in SDEI international conference September 17th -19th 2020.
 - **Swapandeep Kaur** and Arshdeep Kaur ,"Piezoelectric materials in sensors: Bibliometric and visualization analysis"by International Conference Materials Today: Proceedings,c.no ICMSSMT/2022.2022.
-- **Swapandeep Kaur**, "Selection of industrial arc welding robot with TOPSIS and Entropy MCDM techniques" in Materials Today: Proceedings/ 2214-7853, 2021
-- **Swapandeep Kaur** , "Agricultural waste power generation in Ludhiana district, Punjab, India" in  Materials Today: Proceedings, 2021
-- **Swapandeep Kaur** "Smart Watches: A Review
-of Evolution in Bio Medical Sector" in  Materials Today: Proceedings, 2021
-- **Swapandeep Kaur** "Application of multicriteria decision-making theory with VIKORWASPAS -Entropy methods: A case study of silent Genset" in  Materials Today: Proceedings, 2021
-- **Swapandeep Kaur** "Electric Vehicle Scenario in India: Evolution, Challenges and Opportunities" in  International Journal of Advances in Engineering and Management (IJAEM), 2021
 -  **Sanpreet Singh** and Arshdeep Kaur,"Study the impact of different parameters on driving range of electric vehicle using MATLAB simulink"by International	International Journal of Engineering & Management Technology,Volume 02 issue 06,2023
 - **Mandeep Kaur** and Nitin Narang,"Optimal power flow solution using space transformational invasive weed optimization algorithm ",Iranian Journal of Science and Technology, Transactions of Electrical Engineering,volume 47 page no.939-965,ISSN 2023.
-- **Mandeep Kaur** and Nitin Narang,"Non-interactive approach to solve multi-objective optimal power flow problem	Electrical Engineering	103	167-182	2021
-- **Mandeep Kaur** and Nitin Narang," An integrated optimization technique for optimal power flow solution",Soft Computing volume 24,ISSN 10865-10882,2020
 
 
 ## Events Organized (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
