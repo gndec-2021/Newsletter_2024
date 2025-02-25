@@ -1,6 +1,6 @@
 # Department of Computer Science and Engineering  
 
-![DPS](Images/j2.jpg)
+![DPS](Images/HOD1.jpg)
 
 ## Message from HOD
 <div align = "justify"> I congratulate all involved for publication of newsletter. It is a matter of great pleasure and I would like to share few of my thoughts as the Head of Department of Computer Science and Engineering, which was established in 1994. Since then the department is flourishing and achieving new heights. We are offering undergraduate program – B.Tech. in Computer Science and Engineering, and post-graduate program – M.Tech. in Computer Science and Engineering. Department also have Ph.D. program running under autonomous status.<br>
