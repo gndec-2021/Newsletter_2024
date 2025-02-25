@@ -136,12 +136,6 @@ We have a training placement team which includes Student Coordinators, Deputy Co
 | New Era Machines                                 | 2.3                  |
 | Deepak Fasteners                                 | 2.16                 |
 | Rama Steel Forge Ludhiana                        | 2.16                 |
-| Metro Tyres Limited                              | 1.8                  |
-| New Swan Group                                   | 1.8                  |
-| ALPHA POWER-SOLAR SYSTEM                         | 1.44                 |
-| Maa Chintpurni Construction Company              | 1.44                 |
-
----
 
 ## [Placement Highlights 2024](Placement_highlights_2023.md)
 
