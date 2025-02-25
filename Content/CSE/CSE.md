@@ -1,6 +1,6 @@
-![image](https://github.com/user-attachments/assets/7c525d4e-0e85-4cb2-8971-8711bf5267fa)# Department of Computer Science and Engineering  
+# Department of Computer Science and Engineering  
 
-![DPS](Images/j2.jpg)
+![DPS](Images/HOD1.jpg)
 
 ## Message from HOD
 <div align = "justify"> I congratulate all involved for publication of newsletter. It is a matter of great pleasure and I would like to share few of my thoughts as the Head of Department of Computer Science and Engineering, which was established in 1994. Since then the department is flourishing and achieving new heights. We are offering undergraduate program – B.Tech. in Computer Science and Engineering, and post-graduate program – M.Tech. in Computer Science and Engineering. Department also have Ph.D. program running under autonomous status.<br>
@@ -17,11 +17,12 @@ We are also actively involved in research and development activities. Our facult
 
 ## Student Achievements
 
-- Shivay Bhandari  URN: 1905398, student of 2019-2023 Batch got placed at a highest package of 20 Lakh per Annum in Zomato.
-- Vrishti Gupta   URN: 1905064, student of 2019-2023 Batch got placed at a highest package of 19.5 Lakh per Annum in PhonePe.
-- Ajit Kumar  URN: 2004884, student of 2020-2024 Batch got placed at a highest package of 9 Lakh per Annum in TCS PRIME.
+- Vrishti Gupta   URN: 1905064, student of 2019-2023 Batch got placed in PhonePe at the highest package of 19.5 Lakh per Annum .
+- Harsh Kumar (URN:2004584), Gursharan Singh (URN:2004575), students of CSE got placed in Stylumia Intelligence Technologies, Banglore at an annual package of 13 LPA.
+- Jobanpreet Singh (2004603), Kunwar Chetan Singh (2004826), Raunak Raj (2004976) students of CSE got placed placed in Stylumia Intelligence Technologies, Banglore at an annual package of 13 LPA.
+- Tawanjot Singh URN: 1905057, student of CSE got placed in Airbus Group India Private Limited, Banglore, at a package of 10 LPA. 
 - Ekuspreet Singh, Dhruv Kumar, Harsimran Singh, Devesh Sharma, Aarchie Maggu students of CSE got 2nd prize at National Level Smart Hackathon 2023, organized at Shaheed Bhagat Singh State University Technical Campus, Ferozepur.
-- Jasnoor Kaur  URN: 2104128, student of CSE, got recognition of PTU BEST CYCLIST.
+- Jasnoor Kaur  URN: 2104128, student of CSE, got recognition of PTU BEST CYCLIST, 2024.
 - Pawan Singh Bisht, student of CSE, got recognition of 2nd  Best Athlete, 2024.
 
 
