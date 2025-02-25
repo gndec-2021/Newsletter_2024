@@ -170,9 +170,10 @@ The ITIAN Club is a technology based club created in 2021. The club is open to a
 | 19      | Muskan Sharma        | MWIDM                                     | 3.5           |
 | 20      | Raju Kumar Prasad    | Tech Mahindra                             | 2.65          |
 
-**Placement Summary**
+## Placement Summary
+
 | Item                                                                     | 2020-2024 | 2019-2023 |
-|:------------------------------------------------------------------------ |:----------|:----------|
+|--------------------------------------------------------------------------|-----------|-----------|
 | Total Number of Final year students                                      | 131       | 135       |
 | No. of students placed in Companies or Government sector                 | 65        | 65        |
 | No. of students admitted to higher studies with valid Qualifying scores  | 11        | 2         |
