@@ -88,20 +88,20 @@ A workshop was organised by E2S2 society of Electrical Engineering Department. T
 
 | Sr. No.            | Name of Faculty           | Name of Event | Duration | Date(s) | Organizing Institute                 |
 |:-------------------|:--------------------------|:--------------|:---------|:--------|:-------------------------------------|
-|1|Dr Arvind Dhingra|ToT on Operational Safety and Disaster Management|Two|June 15-16,2024|NPTI, faridabad|
-|2|Dr Arvind Dhingra|FDP on Idea Generation Methods|Six|May 13-17,2024|ICT academy|
+|1|Dr Arvind Dhingra|ToT on Operational Safety and Disaster Management|Two days|June 15-16,2024|NPTI, faridabad|
+|2|Dr Arvind Dhingra|FDP on Idea Generation Methods|Six days|May 13-17,2024|ICT academy|
 |3|Dr Arvind Dhingra|8th International Conference on Computing in Natural Sciences Biomedicine and Medicine|Three days|March 23-25,2024|WSEAS, Athens, Greece
 |4|Dr Arvind Dhingra|International Conference on current research trends (IMCCRT-2023)| Three days|December 06-08,2023|Kathmandu University, Nepal|
-|5|Dr Arvind Dhingra|Workshop on Next Generation Smart Mobility|Two|August 26-27,2023|IIT, Ropar|
-|6|Dr Arvind Dhingra|Webinar on Advancing Higher Education with Industry led Micro credentials|One|February 2,2023|Coursera|
-|7|Dr Arvind Dhingra|FDP on Technology Enabled Teaching-Learning|Five|January 16-20,2023|NITTTR, Chandigarh|
-|8|Er. Arshdeep Kaur|FDP on Technology enabled teaching learning|Five|January 16-20 2023|NITTTR, Chandigarh|
-|9|Dr.Kanwardeep Singh|Smart Grids and Power Quality|Four|April 26-28, 2024| ICPEICES-2024|
-|10|Dr.Kanwardeep Singh|Workshop on Next Generation Smart Mobility|Two|August 26-27 2023|GNDEC|
-|11|Er. Harmeet  Singh|	Soft Computing Algorithm : Basics & Applications|Five|October 9-13, 2023|NITTTR, Chandigarh|
-|12|Pf. Swapandeep Kaur|Innovations in water treatment and Sustainable Infrastructure|Five|May 29-June 02, 2023|NITTTR, Chandigarh|
-|13|Pf. Swapandeep Kaur|Research papers and project writing|Five|June 01-04, 2024| |
-|14|Ravinder Kaur|Curriculum Development Processes|Five|March 18-22,2024|NITTTR, Chandigarh|
+|5|Dr Arvind Dhingra|Workshop on Next Generation Smart Mobility|Two days|August 26-27,2023|IIT, Ropar|
+|6|Dr Arvind Dhingra|Webinar on Advancing Higher Education with Industry led Micro credentials|One day|February 2,2023|Coursera|
+|7|Dr Arvind Dhingra|FDP on Technology Enabled Teaching-Learning|Five days|January 16-20,2023|NITTTR, Chandigarh|
+|8|Er. Arshdeep Kaur|FDP on Technology enabled teaching learning|Five days|January 16-20 2023|NITTTR, Chandigarh|
+|9|Dr.Kanwardeep Singh|Smart Grids and Power Quality|Four days|April 26-28, 2024| ICPEICES-2024|
+|10|Dr.Kanwardeep Singh|Workshop on Next Generation Smart Mobility|Two days|August 26-27 2023|GNDEC|
+|11|Er. Harmeet  Singh|	Soft Computing Algorithm : Basics & Applications|Five days|October 9-13, 2023|NITTTR, Chandigarh|
+|12|Pf. Swapandeep Kaur|Innovations in water treatment and Sustainable Infrastructure|Five days|May 29-June 02, 2023|NITTTR, Chandigarh|
+|13|Pf. Swapandeep Kaur|Research papers and project writing|Five days|June 01-04, 2024| |
+|14|Ravinder Kaur|Curriculum Development Processes|Five days|March 18-22,2024|NITTTR, Chandigarh|
 
 
 ## Student's Corner  
