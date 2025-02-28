@@ -2,12 +2,11 @@
 
 ## Message from HoD's Desk
 
-
-![kdsnew1](https://github.com/Arshgndec/Newsletter_2024/blob/main/Content/EE/Images/kdsnew1.jpg)
+![KDS](https://github.com/user-attachments/assets/cbf1f1f0-cdda-42da-bb51-96859c8d210c)
 
 Technical education blended with ethics and quality comprises of one of the most powerful tools, which gives shape to the coming generations. We at Guru Nanak Dev Engineering College, Ludhiana are trying our level best to make optimized utilization of modern tools and techniques, so that quality technical education can come within the reach of the large masses of India with convenience and affordability.
 I am very hopeful that the publishing of the present College Newsletter will showcase our valuable achievements to the world, which the students and staff have made in spite of all the past and ongoing natural and man-made hurdles.
-I am thankful to God almighty for making us capable to perform these tiny but effective efforts. Last but not the least, I congratulate the whole Editorial Board and all involved for their fine individual and team works.
+I am thankful to God almighty for making us capable to perform these tiny but effective efforts. Last but not the least, I congratulate the whole Editorial Board and all involved for their fine individual and team work.
 
 Dr. Kanwardeep Singh    
 Associate Professor and H.O.D.    
