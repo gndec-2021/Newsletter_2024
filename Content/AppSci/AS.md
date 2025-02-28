@@ -18,9 +18,8 @@ HOD, Applied Science Department
 This department was established in the year 1957, whose role is to deliver excellent quality education in the subject of Applied Sciences and humanities for the future technocrats of all engineering streams. The department also endeavours to inculcate the scientific temper and the spirit of inquest in students. It inspires the students to realize and therefore apply the physical laws to the growth and development of their fields of study. We intensely think that an educational programme should be able to stimulate the development of a balanced and harmonious personality of the students. Hence, the educational program of GNDEC has been customised -to suit such necessities.
 </p>
 
- # Extension Lectures, Workshops, and SDP’s Organized
-
- ## Dr. Rajvir Kaur
+# Extension Lectures, Workshops, and SDP’s Organized
+## Dr. Rajvir Kaur
 
 1. Served as coordinator in One Week SDP one week SDP *“Empowering Non-Teaching Staff: Skill Development for Sustainable Growth”* for Non-Teaching staff organized by Department of Applied Sciences under the aegis of IQAC, Guru Nanak Dev Engineering College, Ludhiana held from 16-20 Sept, 2024.
 2. Conducted (Co-coordinator) One day event *“GNE’S ACME 2024, An Inter-college Literary and Technical Conclave”* under Causmic Club, Department of Applied Sciences, Guru Nanak Dev Engineering College, Ludhiana on March 6, 2024.
@@ -53,7 +52,8 @@ The Valedictory Ceremony was graced by Chief Guest Dr. Harish Anand, AVP Economi
 </p>
 
 <p align=justify>
-**Title Sponsors of GNE'S APEX 2023:** Prabal TMT Saria 550 SD and GNDEC Alumni Batch of 1995. A special mention to Mr. Karan Bajwa, Vice President, Asia Pacific, Google Cloud for his unwavering support to the event.  
+ 
+ **Title Sponsors of GNE'S APEX 2023:** Prabal TMT Saria 550 SD and GNDEC Alumni Batch of 1995. A special mention to Mr. Karan Bajwa, Vice President, Asia Pacific, Google Cloud for his unwavering support to the event.  
 The **Co-Powered Sponsors** of the event were Safe Engineering, Happy Forgings Ltd, TATA Tiscon 550 SD and IDP Education Pvt. Ltd. Other sponsors included Avon Cycles Ltd, Coca Cola, Powertek Electricals, SK Trophy, Verka, Northern Motors Pvt Ltd, HPS Eye Hospital, Novelty Air Conditioners, Ronica India and Domino's.  
 </p>
 
@@ -62,6 +62,7 @@ Mr. Gurvinder Singh Bajwa, General Manager, Salsan Steels Pvt. Ltd., Mr. Harpree
 </p>
 
 <p align=justify>
+ 
 **Principal Prof.(Dr.) Sehijpal Singh** congratulated all the winners and inspired all the participants to take part in such events in future as these events not only ignite competitive spirit in participants but also are a part of personal growth and community building.  
 </p>
 
