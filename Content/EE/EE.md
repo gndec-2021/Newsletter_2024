@@ -1,6 +1,7 @@
-0000# Department of Electrical Engineering  
+# Department of Electrical Engineering  
 
 ## Message from HoD's Desk
+
 
 ![kdsnew1](https://github.com/Arshgndec/Newsletter_2024/blob/main/Content/EE/Images/kdsnew1.jpg)
 
