@@ -52,8 +52,7 @@ The Valedictory Ceremony was graced by Chief Guest Dr. Harish Anand, AVP Economi
 </p>
 
 <p align=justify>
- 
- **Title Sponsors of GNE'S APEX 2023:** Prabal TMT Saria 550 SD and GNDEC Alumni Batch of 1995. A special mention to Mr. Karan Bajwa, Vice President, Asia Pacific, Google Cloud for his unwavering support to the event.  
+**Title Sponsors of GNE'S APEX 2023:** Prabal TMT Saria 550 SD and GNDEC Alumni Batch of 1995. A special mention to Mr. Karan Bajwa, Vice President, Asia Pacific, Google Cloud, for his unwavering support to the event.
 The **Co-Powered Sponsors** of the event were Safe Engineering, Happy Forgings Ltd, TATA Tiscon 550 SD and IDP Education Pvt. Ltd. Other sponsors included Avon Cycles Ltd, Coca Cola, Powertek Electricals, SK Trophy, Verka, Northern Motors Pvt Ltd, HPS Eye Hospital, Novelty Air Conditioners, Ronica India and Domino's.  
 </p>
 
