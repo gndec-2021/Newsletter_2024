@@ -61,6 +61,7 @@ Open air theatre is a central point of attraction for the students where various
       
     - College Bhangra Team Participated in Punjab State Inter-University Youth Festival held at Punjabi University, Patiala and bagged 3rd Position
 
+<!--
 - 2020  
     - College Bhangra Team participated in National Youth Festival held at Amity University, Noida
 
@@ -90,3 +91,4 @@ Open air theatre is a central point of attraction for the students where various
 
 - 2015
     - College Won Overall Trophy in Zonal PTU Youth Festival
+-->
