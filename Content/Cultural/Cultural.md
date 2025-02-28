@@ -55,7 +55,7 @@ Open air theatre is a central point of attraction for the students where various
     - College Bhangra participated in All India Open National Youth Festival held at Hubbali-Dharwad, Karnataka
 
 - 2022  
-    - College Gidha Team participated in Punjab State Inter-University held at Punjabi University, Patiala
+    - College Giddha Team participated in Punjab State Inter-University held at Punjabi University, Patiala
   
     - College Won Overall Trophy in Zonal and Runners Up Trophy in InterZonal in IKGPTU Youth Festival
       
