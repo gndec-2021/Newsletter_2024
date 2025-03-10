@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1711fa86-a278-4398-923f-c88788d03da2)# Cultural Committee
+# Cultural Committee
 
 
 <div align="justify">
