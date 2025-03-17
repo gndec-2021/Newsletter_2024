@@ -89,5 +89,5 @@ Open air theatre is a central point of attraction for the students where various
     - College Bhangra Team Participated in North Inter University Youth Festival held at Chhatrapati Shahu Ji Maharaj University , Kanpur and bagged 2nd Position
 
 - 2015
-    - College Won Overall Trophy in Zonal PTU Youth Festival)
+    - College Won Overall Trophy in IKGPTU Zonal Youth Festival
 -->
